@@ -1,0 +1,8 @@
+{
+  "name": "PromoMarket",
+  "app_id": "a179e6ca",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
